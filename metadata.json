@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc AI",
+  "description": "Futuristic AI-powered educational calculator for math, physics, and chemistry concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
